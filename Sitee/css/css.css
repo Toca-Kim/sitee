@@ -1,0 +1,55 @@
+body{
+    font-family: 'Handlee', cursive;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+
+p {
+    margin: 0 0 10px;
+}
+
+.header {
+    width: 100%;
+    height: 300px;
+    background: url(/imag/hsapka.png);
+    text-align: right;
+    text-decoration-color:#333435;
+  
+}
+
+.nav {
+    width: 100%;
+    height: 15px;
+    background: #171717;
+}
+
+.content {
+    width: 100%;
+    height: 800px;
+    background:#aeaeae;
+}
+
+.footer {
+    width: 100%;
+    height: 5px;
+    background: #171717;
+}
+
+.head{
+    width: 100%;
+    height: 200px;
+    background: url(/imag/hsapka.png)
+}
+
+.cen{
+    overflow: hidden;
+    white-space: nowrap;
+    text-align: center;
+    line-height: 15em;
+}
+
+.button1{
+  
+}
